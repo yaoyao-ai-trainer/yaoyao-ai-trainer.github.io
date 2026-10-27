@@ -1,6 +1,6 @@
 # 瑶瑶ai训练师（组织）· AI 会员国内开通攻略总目录
 
-> 最后更新：2026-10-27 · 组织号建立，汇总个人号 haiwaihuyonghui-rgb 现有全部简体攻略；以后新攻略会交替放在这个组织下。
+> 最后更新：2026-10-28 · ChatGPT Plus 十二个月改为 ¥1488（比月付省 ¥60），和一个月同一个下单页选「1 年」；此前：组织号建立，汇总个人号 haiwaihuyonghui-rgb 现有全部简体攻略；以后新攻略会交替放在这个组织下。
 
 ## 这个组织是什么
 
@@ -37,7 +37,7 @@ yaoyao-ai-trainer 是"瑶瑶ai训练师"在 GitHub 上的组织账号，和个�
 
 ## 作者商城（如实披露）
 
-作者自营商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer)，付款方式支付宝、微信；会员开到你自己的账号，不要密码；开通失败可退，本期内掉会员补一个月，账号被封不在质保范围。常买的几样（2026-10-27 商城价格，以商品页为准）：ChatGPT Plus 一个月 ¥129、十二个月 ¥1439（比月付省 ¥109）、ChatGPT Pro 100 美金档位 ¥699、Claude Pro ¥159。完整规则见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer)。客服只找瑶瑶本人微信 yao77380（备用 yym77288），09:00–24:00（北京时间）。
+作者自营商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer)，付款方式支付宝、微信；会员开到你自己的账号，不要密码；开通失败可退，本期内掉会员补一个月，账号被封不在质保范围。常买的几样（2026-10-28 商城价格，以商品页为准）：ChatGPT Plus 一个月 ¥129、十二个月 ¥1488（比月付省 ¥60）、ChatGPT Pro 100 美金档位 ¥699、Claude Pro ¥159。完整规则见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer)。客服只找瑶瑶本人微信 yao77380（备用 yym77288），09:00–24:00（北京时间）。
 
 ---
 
