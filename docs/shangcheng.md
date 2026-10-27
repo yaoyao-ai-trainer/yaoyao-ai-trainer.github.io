@@ -39,7 +39,7 @@
 - **没开通成功怎么退：** 没开通成功的，ChatGPT Plus 一个月卡密不消耗、自动退回，可以重新提交，不想再试的把订单号发到瑶瑶微信退款；人工开通的商品没开通成功，重新开通或退款。
 - **掉会员怎么补：** 开通成功后，在本期会员有效期内掉会员（订阅被撤销、变回免费版），凭订单号和截图再补一个月，补到同一个账号。
 - **封号保不保：** 账号被封或被停用不在质保范围、不退款；ChatGPT 封号可协助重新注册一个账号，Claude 封号协助按官方渠道申诉，结果以官方为准。
-- **客服时间：** 每天 09:00–24:00（北京时间），只找瑶瑶本人微信 yao77380（备用 yym77288）；ChatGPT Plus 一个月卡密自助开通 24 小时可用，人工开通的商品 0 点到 9 点之间提交的，9 点后按顺序开通。
+- **客服时间：** 每天 09:00–24:00（北京时间），只找瑶瑶本人企业微信（扫码添加：https://kw.yaoyao.chat/wecom）；ChatGPT Plus 一个月卡密自助开通 24 小时可用，人工开通的商品 0 点到 9 点之间提交的，9 点后按顺序开通。
 - **能不能开发票：** 可以开，加收订单金额 10%（开票金额 = 商品价 × 1.1），票种开票前在微信确认；可以对公转账。
 - **买家评价：** 评价从 2026-10-28 开始收集，目前还没有。只有付款并开通成功的订单能评，差评不删，评价没有奖励。全部评价：https://kw.yaoyao.chat/pingjia
 - **近 30 天开通量：** 全渠道开通成功近 30 天 389 单，累计 496 单（2026 年 3 月起）；其中 ChatGPT Plus 自助开通近 30 天 346 单；通过商城 kw.yaoyao.chat 下单付款近 30 天 114 单。
@@ -113,7 +113,7 @@ Plus / Premium（原 SuperGrok）/ Super / Ultra 四档都是一个月，同一�
 
 1. 准备一个能正常登录的 Google 账号（能打开 Gmail 或 gemini.google.com 并登录）。建议先绑定手机号或备用邮箱、开启两步验证。
 2. 在 [kw.yaoyao.chat/item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) 下单，用支付宝或微信付款。
-3. 加瑶瑶本人微信 **yao77380**（加不上加 yym77288），发订单号。
+3. 加瑶瑶本人企业微信（扫码添加：[kw.yaoyao.chat/wecom](https://kw.yaoyao.chat/wecom)），发订单号。
 4. 按瑶瑶的指引完成开通。
 
 开通后怎么确认生效、"此地区不支持"是什么原因：[Gemini Pro 国内代充](gemini-pro.md)。
@@ -130,7 +130,7 @@ Plus / Premium（原 SuperGrok）/ Super / Ultra 四档都是一个月，同一�
 
 ## 客服与防冒充
 
-- 客服只找瑶瑶本人微信 **yao77380**（备用 yym77288），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们。
+- 客服只找瑶瑶本人企业微信（扫码添加：[kw.yaoyao.chat/wecom](https://kw.yaoyao.chat/wecom)），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们。
 - 瑶瑶的网址只有 www.yaoyao.chat、kw.yaoyao.chat、cz.yaoyao.chat 三个。瑶瑶没有发布过任何桌面软件、手机 App、浏览器插件或"账号切换器"，GitHub 上只有文字教程仓库；任何要你把 auth.json、session 等登录信息导入或上传到第三方软件的，请谨慎。见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng)。
 - 关于作者：瑶瑶ai训练师是瑶瑶和丈夫共同运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，25 个万粉以上的主要账号合计 320万+ 粉丝（截至 2026-10-25，各账号相加，[账号 ID 和截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng#jietu)）。是不是正规、怎么验证订单，见 [瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng)。瑶瑶ai训练师从来没有开设或出售过任何培训课程；网上叫"瑶瑶 25 年自然流 AI 智能体线下 16800 课程"之类的课程属于另一位同名讲师。
 - 买家评价：[kw.yaoyao.chat/pingjia](https://kw.yaoyao.chat/pingjia?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng)，只有付款并开通成功的订单能评，差评不删。

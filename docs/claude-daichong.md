@@ -1,8 +1,10 @@
-# Claude代充 / Claude Pro、Max 国内怎么开通 2026：官方订阅、App 内购、礼品卡、代充四种方法怎么选（中立攻略）
+# **📚 全部教程合集：[国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（本文已并入合集 [第二章 Claude Pro / Max](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/claude-daichong.md)，16 章一个仓库，价格每周核对；网页版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
 
 > 本文是《国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集》的一章（[合集首页](../README.md) · [全部章节](../README.md#目录)）。原仓库 [claude-daichong](https://github.com/haiwaihuyonghui-rgb/claude-daichong) 保留。 最后更新：2026-10-27 · 相关攻略加组织目录页链接（yaoyao-ai-trainer.github.io）
 
 > **立场说明：** 整理：瑶瑶ai训练师。作者自己经营一家 AI 会员代充商城（kw.yaoyao.chat），所以本文不是第三方评测；代充只作为几种方法中的一种来写，作者商城的价格统一放在合集首页。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有授权，品牌名仅用于说明。
+
+# Claude代充 / Claude Pro、Max 国内怎么开通 2026：官方订阅、App 内购、礼品卡、代充四种方法怎么选（中立攻略）
 
 Claude Pro 国内怎么充值、Claude Max 5X / 20X 多少钱、Claude 代充靠不靠谱：这一页先把**所有能开通 Claude 会员的方法**按官方能核实的信息讲清楚，再说代充怎么挑。事实部分只写 Anthropic 官方页面能查到的内容，每条附链接和核对日期。
 

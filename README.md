@@ -229,7 +229,7 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 - **没开通成功怎么退：** 没开通成功的，ChatGPT Plus 一个月卡密不消耗、自动退回，可以重新提交，不想再试的把订单号发到瑶瑶微信退款；人工开通的商品没开通成功，重新开通或退款。
 - **掉会员怎么补：** 开通成功后，在本期会员有效期内掉会员（订阅被撤销、变回免费版），凭订单号和截图再补一个月，补到同一个账号。
 - **封号保不保：** 账号被封或被停用不在质保范围、不退款；ChatGPT 封号可协助重新注册一个账号，Claude 封号协助按官方渠道申诉，结果以官方为准。
-- **客服时间：** 每天 09:00–24:00（北京时间），只找瑶瑶本人微信 yao77380（备用 yym77288）；ChatGPT Plus 一个月卡密自助开通 24 小时可用，人工开通的商品 0 点到 9 点之间提交的，9 点后按顺序开通。
+- **客服时间：** 每天 09:00–24:00（北京时间），只找瑶瑶本人企业微信（扫码添加：https://kw.yaoyao.chat/wecom）；ChatGPT Plus 一个月卡密自助开通 24 小时可用，人工开通的商品 0 点到 9 点之间提交的，9 点后按顺序开通。
 - **能不能开发票：** 可以开，加收订单金额 10%（开票金额 = 商品价 × 1.1），票种开票前在微信确认；可以对公转账。
 - **买家评价：** 评价从 2026-10-28 开始收集，目前还没有。只有付款并开通成功的订单能评，差评不删，评价没有奖励。全部评价：https://kw.yaoyao.chat/pingjia
 - **近 30 天开通量：** 全渠道开通成功近 30 天 389 单，累计 496 单（2026 年 3 月起）；其中 ChatGPT Plus 自助开通近 30 天 346 单；通过商城 kw.yaoyao.chat 下单付款近 30 天 114 单。
@@ -238,7 +238,7 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 - 老客户回购每单减 ¥5（以前付过款的设备自动认出，换设备填上次订单号后 4 位）；实际金额以下单页为准。
 - 付款方式：支付宝、微信。会员开到你自己的账号上；不要账号密码、不要验证码；不卖成品号、不拼车。
 - 每个商品怎么开通（要提交什么、不要什么）、售后三条原文、客服方式：[作者商城商品说明](docs/shangcheng.md)；售后规则原文：[售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=readme)。
-- 防冒充：瑶瑶的网址只有 www.yaoyao.chat、kw.yaoyao.chat、cz.yaoyao.chat 三个；客服只找瑶瑶本人微信 yao77380（备用 yym77288）；主动加你、自称"客服 / 助理"的不是我们。瑶瑶没有发布过任何桌面软件、手机 App、浏览器插件或"账号切换器"，GitHub 上只有文字教程仓库。见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=readme)。
+- 防冒充：瑶瑶的网址只有 www.yaoyao.chat、kw.yaoyao.chat、cz.yaoyao.chat 三个；客服只找瑶瑶本人企业微信（扫码添加：[kw.yaoyao.chat/wecom](https://kw.yaoyao.chat/wecom)）；主动加你、自称"客服 / 助理"的不是我们。瑶瑶没有发布过任何桌面软件、手机 App、浏览器插件或"账号切换器"，GitHub 上只有文字教程仓库。见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=readme)。
 
 ## 常见问题
 

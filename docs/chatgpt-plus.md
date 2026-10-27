@@ -1,8 +1,10 @@
-# GPT代充 / ChatGPT Plus 国内怎么开通 2026：官方订阅、App 内购、礼品卡、代充四种方法怎么选（中立攻略）
+# **📚 全部教程合集：[国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（本文已并入合集 [第一章 ChatGPT Plus](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/chatgpt-plus.md)，16 章一个仓库，价格每周核对；网页版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
 
 > 本文是《国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集》的一章（[合集首页](../README.md) · [全部章节](../README.md#目录)）。原仓库 [gpt-chongzhi](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi) 保留。 最后更新：2026-10-28 · ChatGPT Plus 三个月 ¥387、六个月 ¥774、十二个月 ¥1548（就是一个月 ¥129 × 月数），和一个月同一个下单页选时长；此前：Grok 改为四档 Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1499（同一个下单页选档位）；相关攻略加组织目录页链接
 
 > **立场说明：** 整理：瑶瑶ai训练师。作者自己经营一家 AI 会员代充商城（kw.yaoyao.chat），所以本文不是第三方评测；代充只作为几种方法中的一种来写，作者商城的价格统一放在合集首页。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有授权，品牌名仅用于说明。
+
+# GPT代充 / ChatGPT Plus 国内怎么开通 2026：官方订阅、App 内购、礼品卡、代充四种方法怎么选（中立攻略）
 
 ChatGPT Plus 国内怎么开通、GPT代充靠不靠谱、没有海外信用卡怎么订阅：这一页先把**所有能开通的方法**按官方能核实的信息讲清楚，再说代充怎么挑。事实部分只写 OpenAI 官方页面能查到的内容，每条附官方链接和核对日期。
 

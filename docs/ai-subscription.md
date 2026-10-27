@@ -1,8 +1,10 @@
-# AI 会员订阅国内指南（ChatGPT Plus / Claude Pro / Gemini / Grok）
+# **📚 全部教程合集：[国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（本文已并入合集 [AI 会员订阅国内指南](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/ai-subscription.md)，16 章一个仓库，价格每周核对；网页版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
 
 > 本文是《国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集》的一章（[合集首页](../README.md) · [全部章节](../README.md#目录)）。原仓库 [ai-subscription-guide-cn](https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn) 保留。 最后更新：2026-10-27（第二次）· Grok Premium ¥159 → ¥239，另有 Plus / Super / Ultra 三档；此前：相关攻略加组织目录页链接（yaoyao-ai-trainer.github.io）
 
 > **立场说明：** 整理：瑶瑶ai训练师。作者自己经营一家 AI 会员代充商城（kw.yaoyao.chat），所以本文不是第三方评测；代充只作为几种方法中的一种来写，作者商城的价格统一放在合集首页。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有授权，品牌名仅用于说明。
+
+# AI 会员订阅国内指南（ChatGPT Plus / Claude Pro / Gemini / Grok）
 
 > 人在国内、没有海外卡，想开 ChatGPT Plus、Claude Pro（含 Claude Code）、Google AI Pro 或 SuperGrok：这份导读把几条路线的取舍、怎么判断代充靠不靠谱、常见报错去哪查，一次说清。只整理公开可核实的信息；正文只写官方价，作者自营商城的价格和入口只放在开头"快速购买"一小块和"在哪买"一节，单独标明。
 

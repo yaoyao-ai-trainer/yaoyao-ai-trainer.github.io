@@ -25,7 +25,7 @@
 | 账号是**免费版** | grok.com 设置 / 订阅页没有 SuperGrok、Premium 等付费会员 | 充不了，请先别下单 |
 | 有**电脑**（Chrome / Edge 浏览器） | 付款后要在电脑浏览器里复制一段 sso 代码 | 手机拿不到这段代码 |
 
-不确定自己的账号符不符合，下单前加瑶瑶微信 yao77380 问一句，比付了款再退省事。
+不确定自己的账号符不符合，下单前加瑶瑶企业微信问一句，比付了款再退省事。
 
 ## 价格：官方几档、本店卖哪档
 
@@ -76,7 +76,7 @@
 2. **开通成功后掉会员**（本期有效期内订阅被撤销、变回免费版）：凭订单号和截图，核实后再补一个月，补到同一个账号。
 3. **账号被封 / 停用**：不在质保范围、不退款。
 
-会员正常到期不属于售后。售后只找瑶瑶本人微信 **yao77380**（备用 yym77288），见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=grok-daichong&utm_content=grok-daichong)。
+会员正常到期不属于售后。售后只找瑶瑶本人企业微信（扫码添加：[kw.yaoyao.chat/wecom](https://kw.yaoyao.chat/wecom)），见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=grok-daichong&utm_content=grok-daichong)。
 
 ## 常见问题
 
