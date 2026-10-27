@@ -1,10 +1,8 @@
-# **📚 全部教程合集：[国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（本文已并入合集 [ChatGPT Pro 100 美金档位](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/chatgpt-pro-100.md)，16 章一个仓库，价格每周核对；网页版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
+# ChatGPT Pro 100 美金档位国内怎么买 2026：Pro 100 / 200 / 500 三档区别、和 Plus 差在哪、四种开通方法
 
 > 本文是《国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集》的一章（[合集首页](../README.md) · [全部章节](../README.md#目录)）。原仓库 [chatgpt-pro-100](https://github.com/haiwaihuyonghui-rgb/chatgpt-pro-100) 保留。 最后更新：2026-10-27 · 相关攻略加组织目录页链接（yaoyao-ai-trainer.github.io）
 
 > **立场说明：** 整理：瑶瑶ai训练师。作者自己经营一家 AI 会员代充商城（kw.yaoyao.chat），所以本文不是第三方评测；代充只作为几种方法中的一种来写，作者商城的价格统一放在合集首页。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有授权，品牌名仅用于说明。
-
-# ChatGPT Pro 100 美金档位国内怎么买 2026：Pro 100 / 200 / 500 三档区别、和 Plus 差在哪、四种开通方法
 
 ChatGPT Pro 100 是什么？和 Pro 200、Pro 500 差在哪？比 Plus 多了什么、值不值得？人在国内、没有海外信用卡，Pro 怎么开通？这一页按 OpenAI 官方帮助中心和定价页能核实的内容讲清楚，每条附链接和核对日期。
 

@@ -1,10 +1,8 @@
-# **📚 全部教程合集：[国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（本文已并入合集 [没有信用卡怎么开通 ChatGPT Plus](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/chatgpt-plus-wu-xinyongka.md)，16 章一个仓库，价格每周核对；网页版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
+# 没有信用卡怎么开通 ChatGPT Plus 2026：支付宝 / 微信能不能付、礼品卡、应用内购、代充四种方法怎么选
 
 > 本文是《国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集》的一章（[合集首页](../README.md) · [全部章节](../README.md#目录)）。原仓库 [chatgpt-plus-wu-xinyongka](https://github.com/haiwaihuyonghui-rgb/chatgpt-plus-wu-xinyongka) 保留。 最后更新：2026-10-28 · ChatGPT Plus 三个月 ¥387、六个月 ¥774、十二个月 ¥1548（就是一个月 ¥129 × 月数），和一个月同一个下单页选时长；此前：相关攻略加组织目录页链接
 
 > **立场说明：** 整理：瑶瑶ai训练师。作者自己经营一家 AI 会员代充商城（kw.yaoyao.chat），所以本文不是第三方评测；代充只作为几种方法中的一种来写，作者商城的价格统一放在合集首页。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有授权，品牌名仅用于说明。
-
-# 没有信用卡怎么开通 ChatGPT Plus 2026：支付宝 / 微信能不能付、礼品卡、应用内购、代充四种方法怎么选
 
 没有信用卡能不能开 ChatGPT Plus？ChatGPT 能不能用支付宝、微信付款？礼品卡、苹果内购、代充分别是什么、有什么风险？这一页按 OpenAI 和苹果官方能核实的内容讲清楚，每条附链接和核对日期。
 
