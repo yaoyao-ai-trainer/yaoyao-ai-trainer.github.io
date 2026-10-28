@@ -1,5 +1,5 @@
 title: '国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026'
-description: '支付宝、微信开通 ChatGPT Plus / Pro、Claude Pro / Max、SuperGrok（Grok Premium）、Gemini Pro：官方订阅、应用内购、礼品卡、代充四种方法，报错速查表，复测记录。整理：瑶瑶ai训练师，作者自营代充商城，文中如实披露，非官方。'
+description: '支付宝、微信开通 ChatGPT Plus / Pro、Claude Pro / Max、SuperGrok（Grok Premium）、Gemini Pro：官方订阅、应用内购、礼品卡、代充四种方法，报错速查，复测记录。各章是摘要，完整正文在各原仓库。整理：瑶瑶ai训练师，作者自营代充商城，文中如实披露，非官方。'
 lang: zh-CN
 theme: jekyll-theme-cayman
 plugins:
@@ -8,3 +8,78 @@ plugins:
   - jekyll-relative-links
 exclude:
   - LICENSE
+
+# 2026-10-28：网页版每页的 canonical 指回 github.com（首页→本仓库，各章摘要→原仓库正本，其余→本仓库里的文件）。由 build_docs.py 生成，别手改
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io"
+  - scope:
+      path: "docs/chatgpt-plus.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi"
+  - scope:
+      path: "docs/chatgpt-plus-wu-xinyongka.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/chatgpt-plus-wu-xinyongka"
+  - scope:
+      path: "docs/chatgpt-pro-100.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/chatgpt-pro-100"
+  - scope:
+      path: "docs/jiage-duibi.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/chatgpt-jiage-duibi"
+  - scope:
+      path: "docs/claude-daichong.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/claude-daichong"
+  - scope:
+      path: "docs/claude-chongzhi.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/claude-chongzhi"
+  - scope:
+      path: "docs/claude-kaopu-yuanli.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/claude-daichong/blob/main/kaopu-yuanli.md"
+  - scope:
+      path: "docs/claude-code.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/claude-code-guide-cn"
+  - scope:
+      path: "docs/codex-cli.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/codex-cli-guide-cn"
+  - scope:
+      path: "docs/grok-premium.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/grok-premium"
+  - scope:
+      path: "docs/grok-daichong.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/grok-premium/blob/main/grok-daichong.md"
+  - scope:
+      path: "docs/gemini-pro.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi/blob/main/gemini.md"
+  - scope:
+      path: "docs/ai-subscription.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn"
+  - scope:
+      path: "docs/faq-xiangxi.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn/blob/main/docs/faq.md"
+  - scope:
+      path: "docs/shangcheng.md"
+    values:
+      canonical_url: "https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/shangcheng.md"
+  - scope:
+      path: "docs/baocuo-sucha.md"
+    values:
+      canonical_url: "https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/baocuo-sucha.md"
+  - scope:
+      path: "docs/fuce-jilu.md"
+    values:
+      canonical_url: "https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/fuce-jilu.md"

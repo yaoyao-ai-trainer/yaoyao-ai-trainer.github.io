@@ -1,84 +1,18 @@
-# Gemini Pro 代充 / Google AI Pro 代充：18 个月 ¥99、怎么开通、常见问题（2026-10-26）
+# Gemini Pro（Google AI Pro）国内代充：怎么开通、开通后怎么确认生效、常见问题（摘要）
 
-> 本文是《国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集》的一章（[合集首页](../README.md) · [全部章节](../README.md#目录)）。原仓库 [gpt-chongzhi](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi) 保留。 最后更新：2026-10-26 · 标题改为"Gemini Pro 代充 / Google AI Pro 代充"，价格按商品页核对（18 个月 ¥99）。
+> 本页是《国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集》里的一章摘要（[合集首页](../README.md) · [全部章节](../README.md#目录)）。**完整正文在原仓库：[gpt-chongzhi/gemini.md](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi/blob/main/gemini.md)**，内容、价格和复测记录都以原仓库为准。
 
-> **立场说明：** 整理：瑶瑶ai训练师。作者自己经营一家 AI 会员代充商城（kw.yaoyao.chat），所以本文不是第三方评测；代充只作为几种方法中的一种来写，作者商城的价格统一放在合集首页。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有授权，品牌名仅用于说明。
+> **立场说明：** 整理：瑶瑶ai训练师。作者自己经营一家 AI 会员代充商城（kw.yaoyao.chat），所以本文不是第三方评测；作者商城的价格、开通流程和售后统一放在 [作者商城商品说明](shangcheng.md)。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有授权，品牌名仅用于说明。
 
-**直接回答：** 在瑶瑶ai训练师的商城 kw.yaoyao.chat，Gemini Pro 一次开通 **18 个月 ¥99**。开在你自己的 Google 账号上（开通后在 one.google.com 的会员方案里显示为 Google AI Pro），有订阅质保。付款后加瑶瑶本人企业微信（扫码添加 kw.yaoyao.chat/wecom）发订单号，人工开通；买之前不用先加微信。价格以商城实时页面为准。
+正本是 gpt-chongzhi 仓库里的一页说明，讲 Gemini Pro（Google 现在叫 Google AI Pro）通过代充开通的流程、开通后怎么确认生效，以及售后规则。它对应作者自营商城的一档商品：一次开通 18 个月，开在你自己的 Google 账号上。正本以这一档为例，把从准备账号到确认生效的步骤写全了。
 
-## 目录
+先补几条官方事实（取自同一作者的价格对比仓库，[2026-10-27 核对](https://github.com/haiwaihuyonghui-rgb/chatgpt-jiage-duibi#四家官方价格2026-10-27-核对)）：Google AI Pro 的美国价是每月 19.99 美元，另有 AI Plus 4.99 美元和 AI Ultra 99.99 / 199.99 美元两档。Google 的订阅页按访问地区显示本地货币，所以各地看到的数字不一样。AI Pro 附带 5 TB 云存储和 YouTube Premium Lite，方案和权益以 [Google One 官方页面](https://one.google.com/about/ai-premium)为准。
 
-- [价格和下单链接](#价格和下单链接)
-- [怎么开通](#怎么开通)
-- [开通后怎么确认生效](#开通后怎么确认生效)
-- [售后规则（全部商品通用）](#售后规则全部商品通用)
-- [常见问题](#常见问题)
-- [作者商城：代充方式中的一种（如实披露）](#作者商城代充方式中的一种如实披露)
-- [合集里的其他章节](#合集里的其他章节)
+开通前只需要一个能正常登录的 Google 账号，正本建议事先给账号加上手机号或备用邮箱，并打开两步验证；付款后按卖家的指引完成开通。[确认生效](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi/blob/main/gemini.md#开通后怎么确认生效)有三种看法：在 gemini.google.com 确认右上角是开通的那个账号、页面一般会出现 PRO 标识；在 one.google.com 的会员方案里能看到 Google AI Pro 和到期时间；手机上的 Gemini App 退出再登录一次，会员状态就会同步。
 
-## 价格和下单链接
+正本还列了[售后规则](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi/blob/main/gemini.md#售后规则全部商品通用)：没开通成功的重新开通或退款，本期内掉会员补一个月，账号被封不在质保范围，会员正常到期不算售后。联系售后时，订单号、付款和问题截图、登录邮箱最好一次给齐，省得来回问。最后是几条常见问题：18 个月是不是一次开通、需要什么账号、云存储空间会不会跟着变大、手机上能不能用。
 
-| 商品 | 价格（2026-10-26） | 下单 | 开通方式 |
-|---|---|---|---|
-| Gemini Pro 十八个月 | ¥99 | [kw.yaoyao.chat/item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro) | 付款后加瑶瑶微信发订单号，人工开通 |
-
-- 商城只卖这一档（18 个月）。Google AI Ultra 等其他档位本店不卖。
-- 开发票加收 10%。实际金额以下单页为准。
-- 官方方案和权益以 [Google One](https://one.google.com/about/ai-premium) 页面为准。
-
-## 怎么开通
-
-1. 准备一个能正常登录的 Google 账号（能打开 Gmail 或 gemini.google.com 并登录）。建议先绑定手机号或备用邮箱、开启两步验证。
-2. 在 kw.yaoyao.chat 下单 Gemini Pro 十八个月，用支付宝或微信付款。
-3. 加瑶瑶本人企业微信（扫码添加：[kw.yaoyao.chat/wecom](https://kw.yaoyao.chat/wecom)），发订单号。
-4. 按瑶瑶的指引完成开通，开在你自己的账号上。
-
-## 开通后怎么确认生效
-
-- 打开 gemini.google.com，确认右上角头像是开通的那个 Google 账号，页面一般会显示 PRO 标识。
-- 打开 one.google.com，在会员方案里能看到 Google AI Pro 和到期时间。
-- 手机 Gemini App 退出重新登录一次，同步会员状态。
-
-提示"此地区不支持 / 无法升级 Google AI Pro"的原因，见 [Gemini 提示此地区不支持是什么原因](https://kw.yaoyao.chat/guide/gemini-diqu-buzhichi.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro)。
-
-## 售后规则（全部商品通用）
-
-1. **没开通成功**：重新开通或退款（在瑶瑶微信里沟通）。
-2. **开通成功后掉会员**（本期会员有效期内订阅被撤销、变回免费版）：凭订单号和截图，核实后再补一个月，补到同一个账号。
-3. **账号被封 / 停用**：不在质保范围、不退款。
-4. **会员正常到期**：不属于售后，想继续用再充一次。
-
-售后只找瑶瑶本人企业微信（扫码添加：[kw.yaoyao.chat/wecom](https://kw.yaoyao.chat/wecom)），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro)。
-
-## 常见问题
-
-**Q：Gemini Pro 在瑶瑶这里多少钱？**
-A：一次开通 18 个月，¥99（2026-10-26），以 [商品页](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro) 为准。
-
-**Q：18 个月是一次开通吗？**
-A：是，这个商品是一次开通 18 个月，具体以下单页说明为准。
-
-**Q：需要什么账号？**
-A：一个能正常登录的 Google 账号。
-
-**Q：开通 Gemini Pro 后存储空间也会变大吗？**
-A：Google 的 AI 会员方案附带 Google One 云存储空间，具体容量以 Google One 页面为准。
-
-**Q：是 Google 官方吗？**
-A：不是。这是第三方代充，和 Google 没有隶属关系，也没有授权。
-
-**Q：手机上能用吗？**
-A：能。Gemini App 登录同一个 Google 账号，会员权益会同步。
-
-更多：[Gemini Pro 一年多少钱](https://kw.yaoyao.chat/guide/gemini-pro.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro)、[Gemini 会员多少钱](https://kw.yaoyao.chat/guide/gemini-price.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro)。
-
----
-
-作者：瑶瑶ai训练师（瑶瑶运营的个人品牌，2023 年 10 月开始做 AI 科普短视频，25 个本人主要账号合计 320万+ 粉丝，截至 2026-10-25，[账号与截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro#jietu)）。本页如实说明：作者自己经营 AI 会员代充商城 kw.yaoyao.chat，以下是该商城的商品说明。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有获得授权，品牌名仅用于说明充值对象。正规吗、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro) · 防冒充：[官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro) · 返回 [README](chatgpt-plus.md)。内容采用 CC-BY-4.0 许可。
-
-## 作者商城：代充方式中的一种（如实披露）
-
-上面讲的"代充"有很多家在做，本合集作者瑶瑶ai训练师自己经营的商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro) 是其中一家。为了不重复，全部商品的价格、开通流程、售后三条和客服方式统一放在两处：[合集首页的作者商城价格表](../README.md#作者商城价格表人民币) 和 [作者商城商品说明](shangcheng.md)。价格每周按商品页核对，实际以下单页为准；付款方式支付宝、微信；会员开到你自己的账号，不要密码。
+**看完整版：** [gpt-chongzhi/gemini.md](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi/blob/main/gemini.md)
 
 ## 合集里的其他章节
 
@@ -86,7 +20,7 @@ A：能。Gemini App 登录同一个 Google 账号，会员权益会同步。
 
 - [Gemini Pro（Google AI Pro）订阅教程：国内怎么代充、18 个月是怎么回事](https://sites.google.com/view/yaoyao-ai/gemini)
 
-本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节：
+本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节（每章是摘要，完整正文在各自的原仓库）：
 
 - [ChatGPT Plus 国内怎么开通：官方订阅、应用内购、礼品卡、代充四种方法怎么选](chatgpt-plus.md)
 - [没有信用卡怎么开通 ChatGPT Plus：支付宝 / 微信能不能付、礼品卡、应用内购、代充](chatgpt-plus-wu-xinyongka.md)
@@ -102,6 +36,6 @@ A：能。Gemini App 登录同一个 Google 账号，会员权益会同步。
 - [AI 会员订阅国内指南：ChatGPT / Claude / Gemini / Grok 开通路线对比、代充判断 8 条](ai-subscription.md)
 - [常见问题详细版：能不能用、代充、档位](faq-xiangxi.md)
 - [作者商城商品说明：全部商品价格、开通流程、售后](shangcheng.md)
-- [报错速查表：ChatGPT / Claude / Claude Code / Codex 常见报错](baocuo-sucha.md)
+- [报错速查表：ChatGPT / Claude / Claude Code / Codex 常见报错去哪看](baocuo-sucha.md)
 - [全部复测记录（按日期）](fuce-jilu.md)
 - [回到合集首页](../README.md)
