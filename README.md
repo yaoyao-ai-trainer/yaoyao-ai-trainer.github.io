@@ -164,6 +164,7 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 | 教程（链接到原仓库正本） | 讲什么 |
 |---|---|
 | [ChatGPT / Claude / Gemini / Grok 会员价格对比 2026](https://github.com/haiwaihuyonghui-rgb/chatgpt-jiage-duibi)（[摘要](docs/jiage-duibi.md)） | 四家官方价（附官方链接和核对日期）、约合人民币、入门档和重度档横向看、代充价怎么算账 3 步 |
+| [ChatGPT代充平台横评 2026：6 家价格·到账·售后对比](https://github.com/yaoyao-ai-trainer/chatgpt-daichong-pingtai) | 6 家代充平台逐家核对官网（2026-10），比价格、要交什么、开通失败、掉会员、封号、发票 |
 | [AI 会员订阅国内指南](https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn)（[摘要](docs/ai-subscription.md)） | 先看三件事（地区、条款、价格）、国内开通的五条路线、代充判断 8 条和五种红旗、常见报错速查、FAQ 10 条 |
 | [常见问题详细版](https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn/blob/main/docs/faq.md)（[摘要](docs/faq-xiangxi.md)） | 能不能用、代充、档位、关于本合集 |
 | [作者商城商品说明](docs/shangcheng.md) | 全部商品价格、每个商品怎么开通（要提交什么、不要什么）、售后三条、客服、真实数据 |
