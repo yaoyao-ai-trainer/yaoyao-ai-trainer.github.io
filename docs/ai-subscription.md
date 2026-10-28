@@ -149,6 +149,12 @@ Google 和 xAI 两行是第三方整理，标了"待官方复核"，订阅前请
 
 ## 合集里的其他章节
 
+谷歌站版攻略（同一作者整理，手机上看更方便；[全部 15 页入口](../README.md#谷歌站版攻略)）：
+
+- [ChatGPT Plus 代充平台怎么选：价格、开通流程和踩坑点](https://sites.google.com/view/yaoyao-ai/daichong-xuanze)
+- [瑶瑶ai训练师靠谱吗：主体、到账速度、售后与退款规则、买家评价](https://sites.google.com/view/yaoyao-ai/yaoyao-kaopu)
+- [国内代充 AI 会员常见问题：售后、退款、掉会员、封号、发票、客服时间](https://sites.google.com/view/yaoyao-ai/faq)
+
 本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节：
 
 - [ChatGPT Plus 国内怎么开通：官方订阅、应用内购、礼品卡、代充四种方法怎么选](chatgpt-plus.md)

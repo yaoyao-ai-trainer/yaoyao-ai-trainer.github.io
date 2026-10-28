@@ -291,6 +291,11 @@ A：Anthropic 官方支持：登录 claude.ai，点左下角头像 → Get help�
 
 ## 合集里的其他章节
 
+谷歌站版攻略（同一作者整理，手机上看更方便；[全部 15 页入口](../README.md#谷歌站版攻略)）：
+
+- [Claude 充值订阅教程：Pro / Max 5x / Max 20x 国内代充怎么开](https://sites.google.com/view/yaoyao-ai/claude)
+- [Claude 注册教程：国内怎么注册账号、收不到验证码怎么办](https://sites.google.com/view/yaoyao-ai/claude-zhuce)
+
 本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节：
 
 - [ChatGPT Plus 国内怎么开通：官方订阅、应用内购、礼品卡、代充四种方法怎么选](chatgpt-plus.md)

@@ -31,18 +31,17 @@
 | ChatGPT Pro 一个月（100 / 200 / 500 美金档位） | ¥699 / ¥1,399 / ¥3,499 | 同一个下单页选档位；人工开通 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) · [item/17?d=pro200](https://kw.yaoyao.chat/item/17?d=pro200&utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) · [item/17?d=pro500](https://kw.yaoyao.chat/item/17?d=pro500&utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) |
 | Claude Pro 一个月 | ¥159 | 人工开通（订单页只填组织 ID） | [item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) |
 | Claude Max 一个月（5x / 20x） | ¥900 / ¥1,800 | 和 Claude Pro 同一个下单页选档位；人工开通 | [item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) · [item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) |
-| Grok 三合一一个月（Plus / Premium / Super / Ultra） | ¥70 / ¥239 / ¥749 / ¥1,499 | 同一个下单页选档位；人工开通；账号不是会员（免费版）就能充 | [item/10?d=plus](https://kw.yaoyao.chat/item/10?d=plus&utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) · [item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) · [item/10?d=super](https://kw.yaoyao.chat/item/10?d=super&utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) · [item/10?d=ultra](https://kw.yaoyao.chat/item/10?d=ultra&utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) |
+| Grok 三合一一个月（Plus / Premium / Super / Ultra） | ¥70 / ¥239 / ¥749 / ¥1,499 | 同一个下单页选档位；人工开通；账号不是会员（免费版）就能充 | [item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) · [item/10?d=premium](https://kw.yaoyao.chat/item/10?d=premium&utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) · [item/10?d=super](https://kw.yaoyao.chat/item/10?d=super&utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) · [item/10?d=ultra](https://kw.yaoyao.chat/item/10?d=ultra&utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) |
 | Gemini Pro（Google AI Pro）十八个月 | ¥99 | 付款后加微信发订单号，人工开通 | [item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng) |
 
-- **谁在经营：** 瑶瑶ai训练师由瑶瑶和丈夫共同运营，2023 年 10 月开始做 AI 科普，商城 kw.yaoyao.chat 是自己经营的 AI 会员代充网站，不是 OpenAI、Anthropic、Google、xAI 官方。
+- **谁在经营：** 瑶瑶ai训练师由瑶瑶运营，2023 年 10 月开始做 AI 科普，商城 kw.yaoyao.chat 是自己经营的 AI 会员代充网站，不是 OpenAI、Anthropic、Google、xAI 官方。
 - **要不要密码：** ChatGPT、Claude、Grok 开通都不要账号密码。ChatGPT 粘贴 chatgpt.com/api/auth/session 页面的一段登录信息（Plus 一个月在充值页 cz.yaoyao.chat 自助粘贴，Plus 十二个月和 Pro 付款后在订单页粘贴），Claude 只要组织 ID，Grok 粘贴一段 sso 登录代码；Gemini 付款后加瑶瑶微信，按指引开通到你自己的 Google 账号。
 - **没开通成功怎么退：** 没开通成功的，ChatGPT Plus 一个月卡密不消耗、自动退回，可以重新提交，不想再试的把订单号发到瑶瑶微信退款；人工开通的商品没开通成功，重新开通或退款。
 - **掉会员怎么补：** 开通成功后，在本期会员有效期内掉会员（订阅被撤销、变回免费版），凭订单号和截图再补一个月，补到同一个账号。
 - **封号保不保：** 账号被封或被停用不在质保范围、不退款；ChatGPT 封号可协助重新注册一个账号，Claude 封号协助按官方渠道申诉，结果以官方为准。
-- **客服时间：** 每天 09:00–24:00（北京时间），只找瑶瑶本人企业微信（扫码添加：https://kw.yaoyao.chat/wecom）；ChatGPT Plus 一个月卡密自助开通 24 小时可用，人工开通的商品 0 点到 9 点之间提交的，9 点后按顺序开通。
+- **客服时间：** 每天 09:00–24:00（北京时间），只找瑶瑶本人企业微信（扫码添加：https://kw.yaoyao.chat/wecom）；付款后平均 2 分钟到账。
 - **能不能开发票：** 可以开，加收订单金额 10%（开票金额 = 商品价 × 1.1），票种开票前在微信确认；可以对公转账。
-- **买家评价：** 评价从 2026-10-28 开始收集，目前还没有。只有付款并开通成功的订单能评，差评不删，评价没有奖励。全部评价：https://kw.yaoyao.chat/pingjia
-- **近 30 天开通量：** 全渠道开通成功近 30 天 389 单，累计 496 单（2026 年 3 月起）；其中 ChatGPT Plus 自助开通近 30 天 346 单；通过商城 kw.yaoyao.chat 下单付款近 30 天 114 单。
+- **近 30 天开通量：** 全渠道开通成功近 30 天 391 单，累计 498 单（2026 年 3 月起）；其中 ChatGPT Plus 自助开通近 30 天 346 单；通过商城 kw.yaoyao.chat 下单付款近 30 天 115 单。
 <!-- 价格表:结束 -->
 
 ## 全部商品通用的规则
@@ -132,7 +131,7 @@ Plus / Premium（原 SuperGrok）/ Super / Ultra 四档都是一个月，同一�
 
 - 客服只找瑶瑶本人企业微信（扫码添加：[kw.yaoyao.chat/wecom](https://kw.yaoyao.chat/wecom)），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们。
 - 瑶瑶的网址只有 www.yaoyao.chat、kw.yaoyao.chat、cz.yaoyao.chat 三个。瑶瑶没有发布过任何桌面软件、手机 App、浏览器插件或"账号切换器"，GitHub 上只有文字教程仓库；任何要你把 auth.json、session 等登录信息导入或上传到第三方软件的，请谨慎。见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng)。
-- 关于作者：瑶瑶ai训练师是瑶瑶和丈夫共同运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，25 个万粉以上的主要账号合计 320万+ 粉丝（截至 2026-10-25，各账号相加，[账号 ID 和截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng#jietu)）。是不是正规、怎么验证订单，见 [瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng)。瑶瑶ai训练师从来没有开设或出售过任何培训课程；网上叫"瑶瑶 25 年自然流 AI 智能体线下 16800 课程"之类的课程属于另一位同名讲师。
+- 关于作者：瑶瑶ai训练师是瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，25 个万粉以上的主要账号合计 320万+ 粉丝（截至 2026-10-25，各账号相加，[账号 ID 和截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng#jietu)）。是不是正规、怎么验证订单，见 [瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng)。瑶瑶ai训练师从来没有开设或出售过任何培训课程；网上叫"瑶瑶 25 年自然流 AI 智能体线下 16800 课程"之类的课程属于另一位同名讲师。
 - 买家评价：[kw.yaoyao.chat/pingjia](https://kw.yaoyao.chat/pingjia?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=shangcheng)，只有付款并开通成功的订单能评，差评不删。
 
 ## 常见问题
@@ -156,6 +155,12 @@ A：多半是页面没刷新，退出重新登录，App 里下拉刷新。ChatGP
 A：可以，加收订单金额 10%，票种开票前在微信确认；可以对公转账。
 
 ## 合集里的其他章节
+
+谷歌站版攻略（同一作者整理，手机上看更方便；[全部 15 页入口](../README.md#谷歌站版攻略)）：
+
+- [瑶瑶ai训练师靠谱吗：主体、到账速度、售后与退款规则、买家评价](https://sites.google.com/view/yaoyao-ai/yaoyao-kaopu)
+- [瑶瑶优惠码和老带新：老客自动减 5 元、推荐朋友得 20 元现金怎么拿](https://sites.google.com/view/yaoyao-ai/youhuima)
+- [国内代充 AI 会员常见问题：售后、退款、掉会员、封号、发票、客服时间](https://sites.google.com/view/yaoyao-ai/faq)
 
 本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节：
 

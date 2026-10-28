@@ -71,7 +71,7 @@ A：Pro / Max 都包含 Claude Code，用会员账号登录即可；claude.ai �
 A：不能。付款不是你本人完成的，官方查不到你的付款记录，有问题按卖家的售后规则处理。
 
 **Q：瑶瑶ai训练师是谁？**
-A：瑶瑶和丈夫共同运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，从来没有卖过课。账号清单和截图见 [关于瑶瑶ai训练师](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=claude-kaopu-yuanli&utm_content=kaopu-yuanli#jietu)，怎么核对订单和收款人见 [瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=claude-kaopu-yuanli&utm_content=kaopu-yuanli)。
+A：瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，从来没有卖过课。账号清单和截图见 [关于瑶瑶ai训练师](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=claude-kaopu-yuanli&utm_content=kaopu-yuanli#jietu)，怎么核对订单和收款人见 [瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=claude-kaopu-yuanli&utm_content=kaopu-yuanli)。
 
 ---
 
@@ -84,6 +84,11 @@ A：瑶瑶和丈夫共同运营的个人品牌（不以公司名义对外），2
 上面讲的"代充"有很多家在做，本合集作者瑶瑶ai训练师自己经营的商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=claude-kaopu-yuanli) 是其中一家。为了不重复，全部商品的价格、开通流程、售后三条和客服方式统一放在两处：[合集首页的作者商城价格表](../README.md#作者商城价格表人民币) 和 [作者商城商品说明](shangcheng.md)。价格每周按商品页核对，实际以下单页为准；付款方式支付宝、微信；会员开到你自己的账号，不要密码。
 
 ## 合集里的其他章节
+
+谷歌站版攻略（同一作者整理，手机上看更方便；[全部 15 页入口](../README.md#谷歌站版攻略)）：
+
+- [Claude 充值订阅教程：Pro / Max 5x / Max 20x 国内代充怎么开](https://sites.google.com/view/yaoyao-ai/claude)
+- [瑶瑶ai训练师靠谱吗：主体、到账速度、售后与退款规则、买家评价](https://sites.google.com/view/yaoyao-ai/yaoyao-kaopu)
 
 本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节：
 

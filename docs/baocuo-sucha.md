@@ -281,6 +281,12 @@ Grok 代充最常见的"失败"不是报错，而是账号条件不符：账号�
 
 ## 合集里的其他章节
 
+谷歌站版攻略（同一作者整理，手机上看更方便；[全部 15 页入口](../README.md#谷歌站版攻略)）：
+
+- [ChatGPT 订阅提示"银行卡被拒绝"怎么办：原因排查和三种正规解决方案](https://sites.google.com/view/yaoyao-ai/yinhangka-jujue)
+- [ChatGPT Plus 续费扣款失败怎么办：先排查这 4 个原因](https://sites.google.com/view/yaoyao-ai/xufei-shibai)
+- [ChatGPT 注册教程：国内怎么注册账号、App 下载和常见问题](https://sites.google.com/view/yaoyao-ai/chatgpt-zhuce)
+
 本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节：
 
 - [ChatGPT Plus 国内怎么开通：官方订阅、应用内购、礼品卡、代充四种方法怎么选](chatgpt-plus.md)

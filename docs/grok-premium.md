@@ -148,6 +148,10 @@ A：官网订阅会自动续费，要在续费前至少 24 小时取消；代充
 
 ## 合集里的其他章节
 
+谷歌站版攻略（同一作者整理，手机上看更方便；[全部 15 页入口](../README.md#谷歌站版攻略)）：
+
+- [SuperGrok 订阅教程：Grok 三合一四档、国内支付方式与代充开通流程](https://sites.google.com/view/yaoyao-ai/grok)
+
 本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节：
 
 - [ChatGPT Plus 国内怎么开通：官方订阅、应用内购、礼品卡、代充四种方法怎么选](chatgpt-plus.md)

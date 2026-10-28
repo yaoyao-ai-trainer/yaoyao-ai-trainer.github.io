@@ -74,13 +74,17 @@ A：能。Gemini App 登录同一个 Google 账号，会员权益会同步。
 
 ---
 
-作者：瑶瑶ai训练师（瑶瑶和丈夫共同运营的个人品牌，2023 年 10 月开始做 AI 科普短视频，25 个本人主要账号合计 320万+ 粉丝，截至 2026-10-25，[账号与截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro#jietu)）。本页如实说明：作者自己经营 AI 会员代充商城 kw.yaoyao.chat，以下是该商城的商品说明。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有获得授权，品牌名仅用于说明充值对象。正规吗、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro) · 防冒充：[官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro) · 返回 [README](chatgpt-plus.md)。内容采用 CC-BY-4.0 许可。
+作者：瑶瑶ai训练师（瑶瑶运营的个人品牌，2023 年 10 月开始做 AI 科普短视频，25 个本人主要账号合计 320万+ 粉丝，截至 2026-10-25，[账号与截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro#jietu)）。本页如实说明：作者自己经营 AI 会员代充商城 kw.yaoyao.chat，以下是该商城的商品说明。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有获得授权，品牌名仅用于说明充值对象。正规吗、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro) · 防冒充：[官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro) · 返回 [README](chatgpt-plus.md)。内容采用 CC-BY-4.0 许可。
 
 ## 作者商城：代充方式中的一种（如实披露）
 
 上面讲的"代充"有很多家在做，本合集作者瑶瑶ai训练师自己经营的商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=gemini-pro) 是其中一家。为了不重复，全部商品的价格、开通流程、售后三条和客服方式统一放在两处：[合集首页的作者商城价格表](../README.md#作者商城价格表人民币) 和 [作者商城商品说明](shangcheng.md)。价格每周按商品页核对，实际以下单页为准；付款方式支付宝、微信；会员开到你自己的账号，不要密码。
 
 ## 合集里的其他章节
+
+谷歌站版攻略（同一作者整理，手机上看更方便；[全部 15 页入口](../README.md#谷歌站版攻略)）：
+
+- [Gemini Pro（Google AI Pro）订阅教程：国内怎么代充、18 个月是怎么回事](https://sites.google.com/view/yaoyao-ai/gemini)
 
 本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节：
 

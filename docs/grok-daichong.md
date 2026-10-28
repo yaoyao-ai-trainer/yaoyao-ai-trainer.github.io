@@ -102,13 +102,17 @@ A：不能。付款不是你本人完成的，有问题按本店售后规则处�
 
 返回 [README](grok-premium.md) · 相关：[ChatGPT / Claude / Grok / Gemini 总指南（gpt-chongzhi）](chatgpt-plus.md) · [Claude 代充（claude-daichong）](claude-daichong.md)
 
-整理：瑶瑶ai训练师，2026-10-26。瑶瑶ai训练师是瑶瑶和丈夫共同运营的个人品牌，从来没有卖过课；本仓库是作者自己的仓库，不是第三方评测。内容采用 MIT 许可。
+整理：瑶瑶ai训练师，2026-10-26。瑶瑶ai训练师是瑶瑶运营的个人品牌，从来没有卖过课；本仓库是作者自己的仓库，不是第三方评测。内容采用 MIT 许可。
 
 ## 作者商城：代充方式中的一种（如实披露）
 
 上面讲的"代充"有很多家在做，本合集作者瑶瑶ai训练师自己经营的商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=org&utm_campaign=yaoyao-ai-trainer&utm_content=grok-daichong) 是其中一家。为了不重复，全部商品的价格、开通流程、售后三条和客服方式统一放在两处：[合集首页的作者商城价格表](../README.md#作者商城价格表人民币) 和 [作者商城商品说明](shangcheng.md)。价格每周按商品页核对，实际以下单页为准；付款方式支付宝、微信；会员开到你自己的账号，不要密码。
 
 ## 合集里的其他章节
+
+谷歌站版攻略（同一作者整理，手机上看更方便；[全部 15 页入口](../README.md#谷歌站版攻略)）：
+
+- [SuperGrok 订阅教程：Grok 三合一四档、国内支付方式与代充开通流程](https://sites.google.com/view/yaoyao-ai/grok)
 
 本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节：
 

@@ -182,6 +182,12 @@ A：不能。付款不是你本人完成的，有问题找卖家。
 
 ## 合集里的其他章节
 
+谷歌站版攻略（同一作者整理，手机上看更方便；[全部 15 页入口](../README.md#谷歌站版攻略)）：
+
+- [ChatGPT Plus 购买指南：没有账号怎么买、成品号和代充的区别、Plus 与 Pro 怎么选](https://sites.google.com/view/yaoyao-ai/chatgpt)
+- [ChatGPT Plus 多少钱一个月：官方价、人民币真实成本和国内购买方式](https://sites.google.com/view/yaoyao-ai/plus-jiage)
+- [ChatGPT Plus 续费扣款失败怎么办：先排查这 4 个原因](https://sites.google.com/view/yaoyao-ai/xufei-shibai)
+
 本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节：
 
 - [ChatGPT Plus 国内怎么开通：官方订阅、应用内购、礼品卡、代充四种方法怎么选](chatgpt-plus.md)
