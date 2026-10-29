@@ -21,7 +21,7 @@
 - [Claude 充值订阅教程：Pro / Max 5x / Max 20x 国内代充怎么开](https://sites.google.com/view/yaoyao-ai/claude)
 - [Claude 注册教程：国内怎么注册账号、收不到验证码怎么办](https://sites.google.com/view/yaoyao-ai/claude-zhuce)
 
-本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节（每章是摘要，完整正文在各自的原仓库）：
+本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-chat/yaoyao-chat.github.io) 的一章，其他章节（每章是摘要，完整正文在各自的原仓库）：
 
 - [ChatGPT Plus 国内怎么开通：官方订阅、应用内购、礼品卡、代充四种方法怎么选](chatgpt-plus.md)
 - [没有信用卡怎么开通 ChatGPT Plus：支付宝 / 微信能不能付、礼品卡、应用内购、代充](chatgpt-plus-wu-xinyongka.md)

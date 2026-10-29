@@ -164,7 +164,7 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 | 教程（链接到原仓库正本） | 讲什么 |
 |---|---|
 | [ChatGPT / Claude / Gemini / Grok 会员价格对比 2026](https://github.com/haiwaihuyonghui-rgb/chatgpt-jiage-duibi)（[摘要](docs/jiage-duibi.md)） | 四家官方价（附官方链接和核对日期）、约合人民币、入门档和重度档横向看、代充价怎么算账 3 步 |
-| [ChatGPT代充平台横评 2026：6 家价格·到账·售后对比](https://github.com/yaoyao-ai-trainer/chatgpt-daichong-pingtai) | 6 家代充平台逐家核对官网（2026-10），比价格、要交什么、开通失败、掉会员、封号、发票 |
+| [ChatGPT代充平台横评 2026：6 家价格·到账·售后对比](https://github.com/yaoyao-chat/chatgpt-daichong-pingtai) | 6 家代充平台逐家核对官网（2026-10），比价格、要交什么、开通失败、掉会员、封号、发票 |
 | [AI 会员订阅国内指南](https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn)（[摘要](docs/ai-subscription.md)） | 先看三件事（地区、条款、价格）、国内开通的五条路线、代充判断 8 条和五种红旗、常见报错速查、FAQ 10 条 |
 | [常见问题详细版](https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn/blob/main/docs/faq.md)（[摘要](docs/faq-xiangxi.md)） | 能不能用、代充、档位、关于本合集 |
 | [作者商城商品说明](docs/shangcheng.md) | 全部商品价格、每个商品怎么开通（要提交什么、不要什么）、售后三条、客服、真实数据 |
@@ -304,7 +304,7 @@ A：两家入门价都是 20 美元/月。写作、搜索、画图偏 ChatGPT；
 - 2026-10-28：新增 [谷歌站版攻略](#谷歌站版攻略) 一节（同一作者在谷歌协作平台上的 15 页网页版攻略入口），各章文末"合集里的其他章节"加对应的谷歌站攻略链接；快速购买下加代理 / 发卡 API 入口。
 - 2026-10-28：合集建成。把个人号 haiwaihuyonghui-rgb 名下 12 篇简体攻略（gpt-chongzhi、chatgpt-plus-wu-xinyongka、chatgpt-pro-100、chatgpt-jiage-duibi、claude-daichong、claude-chongzhi、claude-code-guide-cn、codex-cli-guide-cn、grok-premium、ai-subscription-guide-cn 及其子页）合并到这一个仓库的 docs/ 下，去掉每篇重复的快速购买、立场说明、方法说明、商城价格表、相关攻略；ChatGPT 和 Claude 的 24 条报错并入一页 [报错速查表](docs/baocuo-sucha.md)；各章复测记录汇总到 [全部复测记录](docs/fuce-jilu.md)；人民币价格只在本页价格表一处，每周由脚本按商品页核对。原仓库保留。（10-28 下午起改为：原仓库是正本，合集各章只放摘要，见上一条。）
 - 2026-10-28：ChatGPT Plus 三个月 ¥387、六个月 ¥774、十二个月 ¥1548（一个月 ¥129 × 月数），和一个月同一个下单页选时长；Claude Pro / Max 5x / Max 20x 合到同一个下单页选档位。
-- 2026-10-27：Grok 改为四档 Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1499，同一个下单页选档位；组织号 yaoyao-ai-trainer 建立，本仓库作为组织目录页上线。
+- 2026-10-27：Grok 改为四档 Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1499，同一个下单页选档位；组织号 yaoyao-chat 建立，本仓库作为组织目录页上线。
 
 ## 复测记录
 
@@ -356,4 +356,4 @@ A Chinese-language collection of guides on getting ChatGPT Plus / Pro, Claude Pr
 - 本合集是独立的第三方教程整理，与 OpenAI、Anthropic、Google、xAI、GitHub 不存在合作、授权或隶属关系；ChatGPT、OpenAI、Claude、Anthropic、Gemini、Google、Grok、xAI 等商标归各自权利人所有。
 - 官方价格、政策、支持地区以官方页面当时显示为准，本合集只记录核对当天看到的内容；作者商城价格以商品页为准。
 - 代充不是官方渠道，官方不保证也不授权；账号在不支持的地区使用、多人共用、频繁切换网络都可能导致账号受限，风险由使用者自己承担。不要向任何不可信的第三方提供密码、验证码、Cookie、Session Token 或 API Key。
-- 整理：瑶瑶ai训练师（瑶瑶运营的个人品牌）。自 2026-10-28 起的版本采用 [CC BY-ND 4.0](LICENSE) 许可：可以原样转载，须署名"瑶瑶ai训练师"并附原文链接 https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io ；不许改编、改写后发布。
+- 整理：瑶瑶ai训练师（瑶瑶运营的个人品牌）。自 2026-10-28 起的版本采用 [CC BY-ND 4.0](LICENSE) 许可：可以原样转载，须署名"瑶瑶ai训练师"并附原文链接 https://github.com/yaoyao-chat/yaoyao-chat.github.io ；不许改编、改写后发布。

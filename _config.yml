@@ -14,7 +14,7 @@ defaults:
   - scope:
       path: ""
     values:
-      canonical_url: "https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io"
+      canonical_url: "https://github.com/yaoyao-chat/yaoyao-chat.github.io"
   - scope:
       path: "docs/chatgpt-plus.md"
     values:
@@ -74,12 +74,12 @@ defaults:
   - scope:
       path: "docs/shangcheng.md"
     values:
-      canonical_url: "https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/shangcheng.md"
+      canonical_url: "https://github.com/yaoyao-chat/yaoyao-chat.github.io/blob/main/docs/shangcheng.md"
   - scope:
       path: "docs/baocuo-sucha.md"
     values:
-      canonical_url: "https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/baocuo-sucha.md"
+      canonical_url: "https://github.com/yaoyao-chat/yaoyao-chat.github.io/blob/main/docs/baocuo-sucha.md"
   - scope:
       path: "docs/fuce-jilu.md"
     values:
-      canonical_url: "https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/fuce-jilu.md"
+      canonical_url: "https://github.com/yaoyao-chat/yaoyao-chat.github.io/blob/main/docs/fuce-jilu.md"

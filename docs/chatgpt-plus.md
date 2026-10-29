@@ -22,7 +22,7 @@
 - [ChatGPT Plus 多少钱一个月：官方价、人民币真实成本和国内购买方式](https://sites.google.com/view/yaoyao-ai/plus-jiage)
 - [ChatGPT Plus 代充平台怎么选：价格、开通流程和踩坑点](https://sites.google.com/view/yaoyao-ai/daichong-xuanze)
 
-本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节（每章是摘要，完整正文在各自的原仓库）：
+本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-chat/yaoyao-chat.github.io) 的一章，其他章节（每章是摘要，完整正文在各自的原仓库）：
 
 - [没有信用卡怎么开通 ChatGPT Plus：支付宝 / 微信能不能付、礼品卡、应用内购、代充](chatgpt-plus-wu-xinyongka.md)
 - [ChatGPT Pro 100 美金档位国内怎么买：Pro 100 / 200 / 500 三档区别、和 Plus 差在哪](chatgpt-pro-100.md)

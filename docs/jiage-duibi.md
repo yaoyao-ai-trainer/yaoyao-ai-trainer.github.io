@@ -28,7 +28,7 @@ xAI 现在是 Grok、Cursor、X 会员三合一，官方直接写了各档相对
 - [瑶瑶优惠码和老带新：老客自动减 5 元、推荐朋友得 20 元现金怎么拿](https://sites.google.com/view/yaoyao-ai/youhuima)
 - [国内代充 AI 会员常见问题：售后、退款、掉会员、封号、发票、客服时间](https://sites.google.com/view/yaoyao-ai/faq)
 
-本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节（每章是摘要，完整正文在各自的原仓库）：
+本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-chat/yaoyao-chat.github.io) 的一章，其他章节（每章是摘要，完整正文在各自的原仓库）：
 
 - [ChatGPT Plus 国内怎么开通：官方订阅、应用内购、礼品卡、代充四种方法怎么选](chatgpt-plus.md)
 - [没有信用卡怎么开通 ChatGPT Plus：支付宝 / 微信能不能付、礼品卡、应用内购、代充](chatgpt-plus-wu-xinyongka.md)

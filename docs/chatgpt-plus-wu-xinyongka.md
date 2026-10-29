@@ -25,7 +25,7 @@
 - [ChatGPT Plus 购买指南：没有账号怎么买、成品号和代充的区别、Plus 与 Pro 怎么选](https://sites.google.com/view/yaoyao-ai/chatgpt)
 - [ChatGPT Plus 代充平台怎么选：价格、开通流程和踩坑点](https://sites.google.com/view/yaoyao-ai/daichong-xuanze)
 
-本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io) 的一章，其他章节（每章是摘要，完整正文在各自的原仓库）：
+本文是 [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集](https://github.com/yaoyao-chat/yaoyao-chat.github.io) 的一章，其他章节（每章是摘要，完整正文在各自的原仓库）：
 
 - [ChatGPT Plus 国内怎么开通：官方订阅、应用内购、礼品卡、代充四种方法怎么选](chatgpt-plus.md)
 - [ChatGPT Pro 100 美金档位国内怎么买：Pro 100 / 200 / 500 三档区别、和 Plus 差在哪](chatgpt-pro-100.md)
