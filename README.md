@@ -121,6 +121,7 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 | [ChatGPT Pro 100 美金档位国内怎么买](https://github.com/haiwaihuyonghui-rgb/chatgpt-pro-100)（[摘要](docs/chatgpt-pro-100.md)） | Pro 100 / 200 / 500 三档区别（官方原文要点）、Pro 100 和 Plus 差在哪、"5X / 10X / 25X"是不是官方说法、买 Pro 之前先问自己 5 个问题 |
 | [ChatGPT 12 个报错怎么处理](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi#报错--常见问题大全)（[一页索引](docs/baocuo-sucha.md)） | 付款被拒、卡 declined、已有订阅、到期变 Free、付了钱还是 Free、扣两次、取消 / 退款、Pro 档位差别、用量上限、API 没额度、账号停用、卡密自助开通的常见提示 |
 | [ChatGPT充值教程](https://github.com/yaoyao-chat/chongzhi) | 卡密充 Plus 四步、到账确认、充值页报错对照表 |
+| [ChatGPT Plus购买指南](https://github.com/yaoyao-chat/plus) | 会员包含什么、四档对比、Codex 每 5 小时额度、买几个月怎么选、免费版怎么升级 |
 
 ## 第二章 Claude Pro / Max
 
